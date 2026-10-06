@@ -1,0 +1,18 @@
+{
+  "name": "chatroom",
+  "version": "0.1.0",
+  "description": "One public, unmoderated chat room for everyone with this mod. It shows on the right of the screen while Claude works and hides when Claude waits for you. Messages go to a chat server; nothing from the room reaches Claude.",
+  "author": {
+    "name": "Adam Roman",
+    "url": "https://github.com/adamnroman"
+  },
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "mod",
+    "chat",
+    "community"
+  ],
+  "homepage": "https://github.com/adamnroman/claude-chatroom",
+  "repository": "https://github.com/adamnroman/claude-chatroom"
+}

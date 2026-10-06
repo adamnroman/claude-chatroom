@@ -1,0 +1,15 @@
+{
+  "name": "claude-chatroom",
+  "description": "One public chat room for people waiting on Claude Code.",
+  "owner": {
+    "name": "Adam Roman",
+    "url": "https://github.com/adamnroman"
+  },
+  "plugins": [
+    {
+      "name": "chatroom",
+      "description": "One public, unmoderated chat room for everyone with this mod. It shows on the right of the screen while Claude works and hides when Claude waits for you.",
+      "source": "./mod"
+    }
+  ]
+}
